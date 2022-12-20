@@ -1,0 +1,1357 @@
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/PotionButton.uasset" 0
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/SoulStoneButton.uasset" 1
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/StatusRemoverButton.uasset" 2
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Transparent.uasset" 3
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Anim_Materials/Textures/SpiralFB.uasset" 4
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Anubis.uasset" 5
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Anubis_Sprite.uasset" 6
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/Anubis_Flipbook.uasset" 7
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 8
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/BlackEmissiveSpriteMaterial.uasset" 9
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_Gold.uasset" 10
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_HellHound1.uasset" 11
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_HellHound1.uasset" 12
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/water_nrm.uasset" 13
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/T_Caustics.uasset" 14
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 15
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 17
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_BloodyWater.uasset" 18
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_water_Inst.uasset" 19
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/PinkEmissiveSpriteMaterial.uasset" 20
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Lilith_Final_Skeleton.uasset" 21
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 22
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 23
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Lilith_Final_Anim.uasset" 24
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Virgil_Idle_Idle_Skeleton.uasset" 25
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Virgil_Idle_Idle_Anim.uasset" 26
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_008.uasset" 27
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 28
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 29
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_9.uasset" 30
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_007.uasset" 31
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_8.uasset" 32
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_006.uasset" 33
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_7.uasset" 34
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_005.uasset" 35
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_6.uasset" 36
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_004.uasset" 37
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_5.uasset" 38
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_003.uasset" 39
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_4.uasset" 40
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_002.uasset" 41
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_3.uasset" 42
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_001.uasset" 43
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_2.uasset" 44
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_011.uasset" 45
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_12.uasset" 46
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_010.uasset" 47
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_11.uasset" 48
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_009.uasset" 49
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_10.uasset" 50
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Run_Slashing_000.uasset" 51
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Attack_1.uasset" 52
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/FB_Golem_Attack.uasset" 53
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_008.uasset" 54
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_9.uasset" 55
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_007.uasset" 56
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_8.uasset" 57
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_006.uasset" 58
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_7.uasset" 59
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_005.uasset" 60
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_6.uasset" 61
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_004.uasset" 62
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_5.uasset" 63
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_003.uasset" 64
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_4.uasset" 65
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_002.uasset" 66
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_3.uasset" 67
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_001.uasset" 68
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_2.uasset" 69
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_014.uasset" 70
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_15.uasset" 71
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_013.uasset" 72
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_14.uasset" 73
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_012.uasset" 74
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_13.uasset" 75
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_011.uasset" 76
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_12.uasset" 77
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_010.uasset" 78
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_11.uasset" 79
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_009.uasset" 80
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_10.uasset" 81
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Dying_000.uasset" 82
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Died_1.uasset" 83
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/FB_Golem_Died.uasset" 84
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_008.uasset" 85
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_9.uasset" 86
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_007.uasset" 87
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_8.uasset" 88
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_006.uasset" 89
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_7.uasset" 90
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_005.uasset" 91
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_6.uasset" 92
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_004.uasset" 93
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_5.uasset" 94
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_003.uasset" 95
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_4.uasset" 96
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_002.uasset" 97
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_3.uasset" 98
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_001.uasset" 99
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_2.uasset" 100
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_011.uasset" 101
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_12.uasset" 102
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_010.uasset" 103
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_11.uasset" 104
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_009.uasset" 105
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_10.uasset" 106
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Hurt_000.uasset" 107
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_Hurt_1.uasset" 108
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/FB_Golem_Hurt.uasset" 109
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_008.uasset" 110
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_9.uasset" 111
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_007.uasset" 112
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_8.uasset" 113
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_006.uasset" 114
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_7.uasset" 115
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_005.uasset" 116
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_6.uasset" 117
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_004.uasset" 118
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_5.uasset" 119
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_003.uasset" 120
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_4.uasset" 121
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_002.uasset" 122
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_3.uasset" 123
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_001.uasset" 124
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_2.uasset" 125
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_017.uasset" 126
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_18.uasset" 127
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_016.uasset" 128
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_17.uasset" 129
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_015.uasset" 130
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_16.uasset" 131
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_014.uasset" 132
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_15.uasset" 133
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_013.uasset" 134
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_14.uasset" 135
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_012.uasset" 136
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_13.uasset" 137
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_011.uasset" 138
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_12.uasset" 139
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_010.uasset" 140
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_11.uasset" 141
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_009.uasset" 142
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_10.uasset" 143
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/0_Golem_Idle_Blinking_000.uasset" 144
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/textures/S_Golem_1.uasset" 145
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Player_Monsters/FB_Golem_Idle.uasset" 146
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Background_01.uasset" 147
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Background_01_Sprite.uasset" 148
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_000.uasset" 149
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Idle_000_Sprite_0.uasset" 150
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Spikes.uasset" 151
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Spikes.uasset" 152
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/32x32.uasset" 153
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/32x32_Sprite_16.uasset" 154
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/32x32_Sprite_17.uasset" 155
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Anubis_Sprite.uasset" 156
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/BasicMapForest.uasset" 157
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/BasicMapForest_Mat.uasset" 158
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Blood_Lion.uasset" 159
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/BobTheBlob.uasset" 160
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Bone_Wolf.uasset" 161
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/FlameSprite.uasset" 162
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 163
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 166
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 168
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 170
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 171
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 172
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/FlameSprite_Mat.uasset" 173
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Grave_Leopard.uasset" 174
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Lilith_Transparent_background.uasset" 175
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/LionTransparentBG.uasset" 176
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/RedBG.uasset" 177
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Scroll_Long.uasset" 178
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Scroll_Wide.uasset" 179
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Snake.uasset" 180
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/SquidMonster.uasset" 181
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Background_01_Mat.uasset" 182
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Dirt.uasset" 183
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Dirt_Mat.uasset" 184
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Flames.uasset" 185
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_ScrollParchment.uasset" 186
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/32x32_TileSet.uasset" 187
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Tileset2-export.uasset" 188
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Tileset2-export_TileSet.uasset" 189
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_DarkForest1.uasset" 190
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Tileset_Darkforest1.uasset" 191
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Wall_C_02.uasset" 192
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Wall_C_02_TileSet.uasset" 193
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 194
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 195
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 196
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 197
+"../../../Engine/Content/BasicShapes/Cube.uasset" 198
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 199
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_AutomovingPlatform.uasset" 200
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/ListOfMoves/StatusEffectTextures/PoisonSlime.uasset" 201
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Enum_StatAffected.uasset" 202
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Enum_SpeedScenario.uasset" 203
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Enum_MoveTypes.uasset" 204
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Enum_Move_PhysicalSpecialStatus.uasset" 205
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Enum_Advantage.uasset" 206
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_DataTableElements.uasset" 207
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_DataTable2Elements.uasset" 208
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Enum_ElementalTypes.uasset" 209
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Enum_ElementalSubtypes.uasset" 210
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Enum_StatusEffectTypes.uasset" 211
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Struct_StatusEffect.uasset" 212
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Struct_Move.uasset" 213
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 214
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_Stats_Base.uasset" 215
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_Stats.uasset" 216
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_MovesList.uasset" 217
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Enum_MonsterRoster.uasset" 218
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_Evolution.uasset" 219
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_LevelXP.uasset" 220
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_Monster.uasset" 221
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_MonsterRoster.uasset" 222
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/Enum_ItemTypes.uasset" 223
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/Enum_Effect.uasset" 224
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_Inventory.uasset" 225
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_Monster_Storage.uasset" 226
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SoundEffects/DoDoDo.uasset" 227
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SC_MyMusic.uasset" 228
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SC_MyMaster.uasset" 229
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SC_MySFX.uasset" 230
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/Mixer_MyMixer.uasset" 231
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/The_Dolorous_Realm_Background.uasset" 232
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_SettingsMenu2.uasset" 233
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/StoneButton.uasset" 234
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_PauseLoadMenu.uasset" 235
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Background.uasset" 236
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SoundEffects/Select.uasset" 237
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SoundEffects/NoDice.uasset" 238
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_ScrollParchmentAlpha.uasset" 239
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_MenuOption.uasset" 240
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_ItemMenu.uasset" 241
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_PauseMenu.uasset" 242
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/5.uasset" 243
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/5_Sprite.uasset" 244
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/4.uasset" 245
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/4_Sprite.uasset" 246
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/3.uasset" 247
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/3_Sprite.uasset" 248
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/2.uasset" 249
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/2_Sprite.uasset" 250
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/1.uasset" 251
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/1_Sprite.uasset" 252
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/0.uasset" 253
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/0_Sprite.uasset" 254
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/FB_Portal.uasset" 255
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_MonsterStorage.uasset" 256
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Texture_Player.uasset" 257
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Sprite_Player.uasset" 258
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/ListOfMoves/StatusEffectTextures/Texture_Symbol_Burn.uasset" 259
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_Pokegear.uasset" 260
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_Dialog_NPC.uasset" 261
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/GUI_Timer.uasset" 262
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_BadEnd.uasset" 263
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/BP_TimerMode.uasset" 264
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_Currency.uasset" 265
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Fish5.uasset" 266
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_WaterMonsters/BP_C_WaterMOnster6.uasset" 267
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Fish4.uasset" 268
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_WaterMonsters/BP_C_WaterMOnster5.uasset" 269
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Fish3.uasset" 270
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_WaterMonsters/BP_C_WaterMonster4.uasset" 271
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Fish2.uasset" 272
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_WaterMonsters/BP_C_WaterMonster3.uasset" 273
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Texture_WaterIceType.uasset" 274
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/WaterLogged.uasset" 275
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_WaterMonsters/BP_C_WaterMonster1.uasset" 276
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 277
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 278
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/FishingSpear.uasset" 279
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FishingSpear_Sprite.uasset" 280
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_FishingArea.uasset" 281
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/BP_Interface_Dialog.uasset" 282
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Texture_Testomon.uasset" 283
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_Testomon.uasset" 284
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Texture_Hellhound_Flipped.uasset" 285
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_Tempemon.uasset" 286
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/MagicMonsters/Texture_0_Magician_Idle_000.uasset" 287
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_MagicMonster/BP_C_Magic1.uasset" 288
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_Golem.uasset" 289
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleOne/BP_LevelManager_CircleOne.uasset" 290
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 291
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/Fireprotect/BP_Material.uasset" 292
+"../../../Engine/Content/BasicShapes/Cone.uasset" 293
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/BP_Gate.uasset" 294
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/FireMonsters/Texture_Salamander_idle3.uasset" 295
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_FireMonsters/BP_C_Slamander.uasset" 296
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_007.uasset" 297
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_007_Sprite_0.uasset" 298
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_006.uasset" 299
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_006_Sprite_0.uasset" 300
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_005.uasset" 301
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_005_Sprite_0.uasset" 302
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_004.uasset" 303
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_004_Sprite_0.uasset" 304
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_003.uasset" 305
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_003_Sprite_0.uasset" 306
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_002.uasset" 307
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_002_Sprite_0.uasset" 308
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_001.uasset" 309
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_001_Sprite_0.uasset" 310
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_000_Sprite_1.uasset" 311
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_011.uasset" 312
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_011_Sprite_0.uasset" 313
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_010.uasset" 314
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_010_Sprite_0.uasset" 315
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_009.uasset" 316
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_009_Sprite_0.uasset" 317
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Texture_Idle_008.uasset" 318
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/NPC_idleAssets/Sprite_Idle_008_Sprite_0.uasset" 319
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/FlipBooks/FB_NPC.uasset" 320
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_C_Strength.uasset" 321
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_Fakeout1.uasset" 322
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_FinalFakeout.uasset" 323
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_FinalFakeout_Video.uasset" 324
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_FinalFakeout_Video_Mat.uasset" 325
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/DRTestMovie.uasset" 326
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_Movies.uasset" 327
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_Grey.uasset" 328
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_SoulStone.uasset" 329
+"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 330
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/HealthPotion.uasset" 331
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/HealthPotion_Sprite.uasset" 332
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_Item_HealthPotion.uasset" 333
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_ItemButton.uasset" 334
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_InventoryItemButton.uasset" 335
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_ItemShop.uasset" 336
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/Enum_IllusionType.uasset" 337
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC.uasset" 338
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/ANU.uasset" 339
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/ANU_Sprite.uasset" 340
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/ANU_Flipbook.uasset" 341
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_GateGuardian.uasset" 342
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Illusion.uasset" 343
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Illusion_Reverse.uasset" 344
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Bridge.uasset" 345
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Bridge_Sprite.uasset" 346
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Illusion_InvisibleBridge.uasset" 347
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_9.uasset" 348
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_8.uasset" 349
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_7.uasset" 350
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_6.uasset" 351
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_5.uasset" 352
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_4.uasset" 353
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_35.uasset" 354
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_34.uasset" 355
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_33.uasset" 356
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_32.uasset" 357
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_31.uasset" 358
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_30.uasset" 359
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_3.uasset" 360
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_29.uasset" 361
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_27.uasset" 362
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_26.uasset" 363
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_25.uasset" 364
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_24.uasset" 365
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_23.uasset" 366
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_22.uasset" 367
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_21.uasset" 368
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_20.uasset" 369
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_2.uasset" 370
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_19.uasset" 371
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_18.uasset" 372
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_17.uasset" 373
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_16.uasset" 374
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_15.uasset" 375
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_14.uasset" 376
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_13.uasset" 377
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_12.uasset" 378
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_11.uasset" 379
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_28.uasset" 380
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_10.uasset" 381
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_1.uasset" 382
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FlameSprite_Sprite_0.uasset" 383
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/EmissiveSpriteMaterial.uasset" 384
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/FB_Flamesprite.uasset" 385
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_FlameSprite.uasset" 386
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Illusion_Freeze.uasset" 387
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Illusion_FalseEnemy.uasset" 388
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Log.uasset" 389
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Log.uasset" 390
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_CutLog.uasset" 391
+"../../../Engine/Content/BasicShapes/Plane.uasset" 392
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_SIghtGlasses.uasset" 393
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Special_Invisible.uasset" 394
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Climb.uasset" 395
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/BP_Component_MoveExecuter.uasset" 396
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Boulders/BP_Boulders.uasset" 397
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_FishingSpear.uasset" 398
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/Enum_KeyList.uasset" 399
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/stone-push-sound.uasset" 400
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Virgil_Idle_Idle_PhysicsAsset.uasset" 401
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/lambert2.uasset" 402
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Virgil_Idle_Idle.uasset" 403
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/MC_Final.uasset" 404
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Lilith_Final_PhysicsAsset.uasset" 405
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ModelsAndAnimations/Lilith_Final.uasset" 406
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Virgil_Final_T_Virgil_Roughness.uasset" 407
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Virgil_Final_T_Virgil_Normal.uasset" 408
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Virgil_Final_T_Virgil_Metallic.uasset" 409
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Virgil_Final_T_Virgil_Height.uasset" 410
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Virgil_Final_T_Virgil_Emissive.uasset" 411
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Virgil_Final_T_Virgil_BaseColor.uasset" 412
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Virgil_Final_T_Virgil_BaseColor_Mat.uasset" 413
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_New_Walk.uasset" 414
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_Final_T_MC_Roughness.uasset" 415
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_Final_T_MC_Normal.uasset" 416
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_Final_T_MC_Metallic.uasset" 417
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_Final_T_MC_Height.uasset" 418
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_Final_T_MC_Emissive.uasset" 419
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_Final_T_MC_BaseColor.uasset" 420
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/MC_Final_T_MC_BaseColor_Mat.uasset" 421
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Lilith_Final_T_Lilith_Roughness.uasset" 422
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Lilith_Final_T_Lilith_Normal.uasset" 423
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Lilith_Final_T_Lilith_Metallic.uasset" 424
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Lilith_Final_T_Lilith_Height.uasset" 425
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Lilith_Final_T_Lilith_Emissive.uasset" 426
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Lilith_Final_T_Lilith_BaseColor.uasset" 427
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Lilith_Final_T_Lilith_BaseColor_Mat.uasset" 428
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Avatar/BP_Character.uasset" 429
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_Item.uasset" 430
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/Struct_Item.uasset" 431
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SaveLoad/BP_SaveGame.uasset" 432
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/GraveLeopard_IDLE.uasset" 433
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/GraveLeopard_HURT.uasset" 434
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/GraveLeopard_Front_IDLE.uasset" 435
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/GraveLeopard_Front_HURT.uasset" 436
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/GraveLeopard_Front_ATTACK.uasset" 437
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/GraveLeopard_ATTACK.uasset" 438
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/JohnsMons/BP_GraveLeopard.uasset" 439
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BoneWolf_IDLE.uasset" 440
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BoneWolf_HURT.uasset" 441
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BoneWolf_Front_IDLE.uasset" 442
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BoneWolf_Front_HURT.uasset" 443
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BoneWolf_Front_ATTACK.uasset" 444
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BoneWolf_ATTACK.uasset" 445
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/JohnsMons/BP_BoneWolf.uasset" 446
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BloodLion_IDLE.uasset" 447
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BloodLion_HURT.uasset" 448
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BloodLion_Front_IDLE.uasset" 449
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BloodLion_Front_HURT.uasset" 450
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BloodLion_Front_ATTACK.uasset" 451
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/BloodLion_ATTACK.uasset" 452
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/JohnsMons/BP_BloodLion.uasset" 453
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GI_Main.uasset" 454
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_TextBoxHorizontal.uasset" 455
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_Evolve.uasset" 456
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_Component_MonsterRoster.uasset" 457
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_Monster.uasset" 458
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Struct_MonsterDetails.uasset" 459
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/25.uasset" 460
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Scroll.uasset" 461
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Item_MoveScroll.uasset" 462
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SFX/wooden-floor-creak-81237.uasset" 463
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Avatar/BP_Controller_Character.uasset" 464
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Brown_color.uasset" 465
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/lambert6_002.uasset" 466
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/boat.uasset" 467
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_NewBoat.uasset" 468
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/ShopBackground.uasset" 469
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/NameDisplay.uasset" 470
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_MonsterRosterMenu.uasset" 471
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 472
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/DT_Elements2.uasset" 473
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/DT_Elements.uasset" 474
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Scroll_Tall.uasset" 475
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Hail.uasset" 476
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/DarkForestBackGround.uasset" 477
+"../../../Engine/Content/EngineSounds/Master.uasset" 478
+"../../../Engine/Content/EngineSounds/Music.uasset" 479
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/Music/Pokemon_Red_Yellow_Blue_Battle_Music_Trainer.uasset" 480
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/Music/Music_Randal_CollierFord__Pale_Horse.uasset" 481
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/Music/Music_Battle.uasset" 482
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Anim_Materials/Textures/WaterHurricaneFB.uasset" 483
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Anim_Materials/Mat_WaterHurricane.uasset" 484
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Anim_Materials/Textures/Fire_Attack.uasset" 485
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Anim_Materials/Fire_Attack_Mat.uasset" 486
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/HPBackground.uasset" 487
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/GlowyBorder.uasset" 488
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Blob_ATTACK.uasset" 489
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_BattleMenu_Test1.uasset" 490
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_BattleTrigger.uasset" 491
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/decor_19.uasset" 492
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/decor_19_Sprite.uasset" 493
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Chest.uasset" 494
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Blue_color.uasset" 495
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_FalseLake.uasset" 496
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/decor_25.uasset" 497
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/decor_25_Sprite.uasset" 498
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_MoneyAddSpawn2.uasset" 499
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Money_Subtract_Spawn1.uasset" 500
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/Lilith.uasset" 501
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/Lilith_Sprite.uasset" 502
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/Lilith_Flipbook.uasset" 503
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleOne/Cinematics/MFS_Cinematic1.uasset" 504
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleOne/Cinematics/MFS_Cinematic2.uasset" 505
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleOne/Cinematics/MP_Cinematic.uasset" 506
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleOne/Cinematics/MP_Cinematic_Video.uasset" 507
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_LevelLustDescription.uasset" 508
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_SettingsMenu.uasset" 509
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_WidgetSwitcher.uasset" 510
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/decor_35.uasset" 511
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/decor_35_Sprite.uasset" 512
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_C_Key.uasset" 513
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_SoulStone_OK.uasset" 514
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/The_Dolorous_Realm_Start.uasset" 515
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_LevelSelect.uasset" 516
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_LevelSelect.uasset" 517
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_LevelSelect.uasset" 518
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_TestMonsterRosterMenu.uasset" 519
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_MonsterRosterMenu.uasset" 520
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_TestBattleMenu.uasset" 521
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_TestBattleMode.uasset" 522
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_PuzzleBlock.uasset" 523
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_AutoEvolver_Temp.uasset" 524
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Texture_FireType.uasset" 525
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_FireMonsters/BP_C_Fire5.uasset" 526
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_MagicMonster/BP_C_MagicMonster3.uasset" 527
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Fish1.uasset" 528
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_WaterMonsters/BP_C_WaterMonster2.uasset" 529
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Sprite_Hellhound_Flipped.uasset" 530
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Sprite_Testomon.uasset" 531
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Texture_Hellhound.uasset" 532
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/ice_Monsters/Texture_Elemental_02_Idle_003.uasset" 533
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/ice_Monsters/Texture_Elemental_02_Idle_003__1_.uasset" 534
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/ice_Monsters/Texture_Frost_golem.uasset" 535
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/MagicMonsters/Texture_0_Magician_Idle_003.uasset" 536
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/MagicMonsters/Texture_MagicEye.uasset" 537
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Texture_0_Archer_Idle_000.uasset" 538
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Texture_0_Archer_Idle_001.uasset" 539
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Texture_Skeleton_02__ATTACK_000.uasset" 540
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Texture_Skeleton_03__ATTACK_000.uasset" 541
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/WaterMonsters/Texture_Skeleton_01__ATTACK_000.uasset" 542
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Bat/Bat_Attack.uasset" 543
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/Mat_FlipBooks/Bat/Mat_BatAttack.uasset" 544
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Bat/Bat_Death.uasset" 545
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/Mat_FlipBooks/Bat/Mat_BatDeath.uasset" 546
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Bat/Bat_Hurt.uasset" 547
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/Mat_FlipBooks/Bat/Mat_BatHurt.uasset" 548
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Goblin_Mage/Goblin_Mage_attack.uasset" 549
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/Mat_FlipBooks/Goblin_Mage/Mat_Goblin_mage_Attack.uasset" 550
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Goblin_Mage/Goblin_Mage_Death.uasset" 551
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/Mat_FlipBooks/Goblin_Mage/Mat_Goblin_Mage_Death.uasset" 552
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Goblin_Mage/Goblin_Mage_Hurt.uasset" 553
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/Mat_FlipBooks/Goblin_Mage/Mat_Goblin_Mage_Hurt.uasset" 554
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Enum_MoveAssignedStatus.uasset" 555
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Moves/Enum_SpecialMoves.uasset" 556
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_C_NPC_entrence2Greed.uasset" 557
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/MagicMonsters/Texture_0_Magician_Idle_001.uasset" 558
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/FireMonsters/Texture_Hound_idle3.uasset" 559
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/1Texture_Medusa.uasset" 560
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/1_MED_Spirte.uasset" 561
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/1_MED.uasset" 562
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/B_NPC_BMedusa.uasset" 563
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/PuzzleBlocks/Mudslope.uasset" 564
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Shop_SetUp/GUI_ItemShop.uasset" 565
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Shop_SetUp/GUI_Interactions.uasset" 566
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Shop_SetUp/BP_Building_Setup.uasset" 567
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/BP_FireProtect.uasset" 568
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/Material/Yellow.uasset" 569
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/Fireprotect/Shield_L.uasset" 570
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/Fireprotect/Shield_P.uasset" 571
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/Material/Yellow_Mat.uasset" 572
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/2d_Blueprints/BP_2D_Spawn.uasset" 573
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Water_Forest.uasset" 574
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Water_Forest.uasset" 575
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Test_World.uasset" 576
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Test_World.uasset" 577
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_STONE_STAIRS.uasset" 578
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_STONE_STAIRS.uasset" 579
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Stone.uasset" 580
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Stone.uasset" 581
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Lava_BOOB.uasset" 582
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Lava_BOOB.uasset" 583
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_LAVA.uasset" 584
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_LAVA.uasset" 585
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Just_Stairs.uasset" 586
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Just_Stairs.uasset" 587
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Cave_Rock.uasset" 588
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Cave_Rock.uasset" 589
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Architecture.uasset" 590
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Architecture.uasset" 591
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Level_Test.uasset" 592
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Texture_2D_Building.uasset" 593
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Sprite_2D_Building.uasset" 594
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Texture_pngclipart.uasset" 595
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Sprite_pngclipart1.uasset" 596
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Building.uasset" 597
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Building.uasset" 598
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Grass.uasset" 599
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Grass.uasset" 600
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/ImportedTextures/Texture_Ice_Stone.uasset" 601
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Textures/Tile_Sets/Tileset_Ice_Stone.uasset" 602
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_000.uasset" 603
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_000_Sprite_0.uasset" 604
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/BP_Trainer.uasset" 605
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Dark_Monsters/Texture_dark_knight02_idle2.uasset" 606
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_DarkMonsters/BP_C_DarkKnight.uasset" 607
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/BP_C_Rival.uasset" 608
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/BP_FireWall.uasset" 609
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/BP_Protect.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/GeneratedBand.uasset" 611
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/1SoulShield_Texture.uasset" 612
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/BP_SoulShield_Test.uasset" 613
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/BP_MovieTrigger.uasset" 614
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/Fakeout1.uasset" 615
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/Final_Fakeout.uasset" 616
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_Fakeout1_Video.uasset" 617
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_Fakeout1_Video_Mat.uasset" 618
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_RedCircle.uasset" 619
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_RedCircle_Video.uasset" 620
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_RedCircle_Video_Mat.uasset" 621
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_Test.uasset" 622
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_Test_Video.uasset" 623
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_Test_Video_Mat.uasset" 624
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/Plane_Blueprint.uasset" 625
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/Red_Circle_Fakeout.uasset" 626
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_4_Greed/BP_LevelManager_Greed.uasset" 627
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_4_Greed/Scene_Circle4_Greed_SamDurfee_BuiltData.uasset" 628
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/StarterContent/Audio/Collapse01.uasset" 629
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/StarterContent/Audio/Collapse02.uasset" 630
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/StarterContent/Audio/Collapse_Cue.uasset" 631
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 632
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 633
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 634
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 635
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 636
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_Architectural.uasset" 637
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/LinearSine.uasset" 639
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_Glowing_MultiColor.uasset" 640
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_Hexagon.uasset" 641
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset" 642
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_Holographic.uasset" 643
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_HoloRefract.uasset" 644
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_Modern.uasset" 645
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_MultiColor.uasset" 646
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset" 647
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Functions/Texture/Dye_4ColorBasic.uasset" 648
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Functions/Texture/Dye_MultiColor.uasset" 649
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset" 650
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_Architectural_Black.uasset" 651
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_Auto.uasset" 652
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrange.uasset" 653
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonOrangeC.uasset" 654
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_HexagonRed.uasset" 655
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_Dark.uasset" 656
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_MetalBar_White.uasset" 657
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernDark.uasset" 658
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernLight.uasset" 659
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_ModernNeutral.uasset" 660
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelDark.uasset" 661
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Advanced/M_SuperGrid_PanelRed.uasset" 662
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Basic/M_SuperGrid_GlowingLava.uasset" 663
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalDark.uasset" 664
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalDark3.uasset" 665
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalGlow.uasset" 666
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Basic/M_SuperGrid_MetalLight.uasset" 667
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Grids/M_SuperGrid_BlackSheet.uasset" 668
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Grids/M_SuperGrid_Chess.uasset" 669
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Grids/M_SuperGrid_DangerZone.uasset" 670
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset" 671
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Grids/M_SuperGrid_DefaultBlack.uasset" 672
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Grids/M_SuperGrid_DoubleColor.uasset" 673
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Holographic/M_SuperGrid_HoloRefract_Cyan.uasset" 674
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Holographic/M_SuperGrid_Holo_Color.uasset" 675
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Holographic/M_SuperGrid_Holo_Mono.uasset" 676
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Templates/M_SuperGrid_Barrel.uasset" 677
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Materials/Palette/Templates/M_SuperGrid_Llama.uasset" 678
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Arch1.uasset" 679
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Arch2.uasset" 680
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_CornerInner.uasset" 681
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_CornerOuter.uasset" 682
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_CylinderBend.uasset" 683
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_CylinderHalf.uasset" 684
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_CylinderQuarter.uasset" 685
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Plane.uasset" 686
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Pyramide.uasset" 687
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Ramp.uasset" 688
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_RingFull.uasset" 689
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_RingPiece.uasset" 690
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_RingQuarter.uasset" 691
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_SlantedBox22.uasset" 692
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_SlantedBox35.uasset" 693
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_SlantedBox45.uasset" 694
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_BasicGridW_M.uasset" 695
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_BasicGrid_M.uasset" 696
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_BasicGrid_N.uasset" 697
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_CustomMetal_M.uasset" 698
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_DotGrid_M_Mat.uasset" 699
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_Hexagon_M_Mat.uasset" 700
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_ModernGrid_M.uasset" 701
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_ModernGrid_N.uasset" 702
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_Panels_N.uasset" 703
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_StoneGrid_Mat.uasset" 704
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/T_StoneGrid_M_Mat.uasset" 705
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/Templates/T_TemplateBarrel.uasset" 706
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/Templates/T_TemplateBarrel_Mat.uasset" 707
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/Templates/T_TemplateGrid.uasset" 708
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Textures/Templates/T_TemplateHuman.uasset" 709
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/UGK/Meshes/Floors/Floor_hole_beveled_cover_visible.uasset" 710
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/UGK/Blueprints/Moving/MovingActor.uasset" 711
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/UGK/Materials/GreyboxMaterial_Offset_Orange.uasset" 712
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/UGK/Meshes/Floors/Floor.uasset" 713
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/UGK/Meshes/Floors/Floor_hole_beveled.uasset" 714
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/UGK/Meshes/Walls/Thin/wall_thin_1m.uasset" 715
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 716
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 717
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 718
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 719
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 720
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 721
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 722
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 723
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 724
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 725
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 726
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 727
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 728
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 729
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 730
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 731
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 732
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 733
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 734
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 735
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 736
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 737
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 738
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 739
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 740
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 741
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 742
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 743
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 744
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 745
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 746
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 747
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 748
+"../../../Engine/Content/EditorResources/S_Note.uasset" 749
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 750
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 751
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 752
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 753
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 754
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 755
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 756
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 757
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 758
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 759
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 760
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 761
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 762
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 763
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 764
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 765
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 766
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 767
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 768
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 769
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 770
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 771
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 772
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 773
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 774
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 775
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 776
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 777
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 778
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 779
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 780
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 781
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 782
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 783
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 784
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 785
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 786
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 787
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 788
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 789
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 790
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 791
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 792
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 793
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 794
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 795
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 796
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 797
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 798
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 799
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 800
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 801
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 802
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 803
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 804
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 805
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 806
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 807
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 808
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 809
+"../../../Engine/Content/EngineResources/Black.uasset" 810
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 811
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 812
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 813
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 814
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 815
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 816
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 817
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 818
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 819
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 820
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 821
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 822
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 823
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 824
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 825
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 826
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 827
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 828
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 829
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 830
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 831
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 832
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 833
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 834
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 835
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 836
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 837
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 838
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 839
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 840
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 841
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 842
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 843
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 844
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 845
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 846
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 847
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 848
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 849
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 850
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 851
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 852
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 853
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 854
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 855
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 856
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 857
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 858
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 859
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 860
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 861
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 862
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 863
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 864
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 865
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 866
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 867
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 868
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 869
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 870
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 871
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 872
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 873
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 874
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 875
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 876
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 877
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 878
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 879
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 880
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 881
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 882
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 883
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 884
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 885
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 886
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 887
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 888
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 889
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 890
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 891
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 892
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 893
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 894
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Untitled.umap" 895
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/BP_Collision.uasset" 896
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Shop_SetUp/innerBuilding/GUI_Door.uasset" 897
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Shop_SetUp/innerBuilding/BP_Out_Door.uasset" 898
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Shop_SetUp/BP_Shop_interact.uasset" 899
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Shop_SetUp/innerBuilding/Scene_InnerBuilding.umap" 900
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/Texture_greenery_2.uasset" 901
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_greenery_2_Sprite_0.uasset" 902
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/BP_WildArea.uasset" 903
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Avatar/GM_Overworld_Test.uasset" 904
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Scene_Test_WildArea.umap" 905
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Circle2_Lust_BuiltData.uasset" 906
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Dark_Monsters/Texture_skeleton02_idle2.uasset" 907
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_DarkMonsters/BP_C_Skelly.uasset" 908
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Dark_Monsters/Texture_dragon02_idle2.uasset" 909
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_DarkMonsters/BP_C_Dragon.uasset" 910
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/Dark_Monsters/Texture_ghost02_idle2.uasset" 911
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_DarkMonsters/BP_C_Dark_Ghost.uasset" 912
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Texture_DarkType.uasset" 913
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_DarkMonsters/BP_C_Dark.uasset" 914
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/BP_C_MrBat.uasset" 915
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Alien_IDLE.uasset" 916
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Alien_Hurt.uasset" 917
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Alien_Back_IDLE.uasset" 918
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Alien_Back_HURT.uasset" 919
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Alien_Back_ATTACK.uasset" 920
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Alien_ATTACK.uasset" 921
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/JohnsMons/BP_MiniThulhu.uasset" 922
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Snake_IDLE.uasset" 923
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Snake_HURT.uasset" 924
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Snake_Back_IDLE.uasset" 925
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Snake_Back_HURT.uasset" 926
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Snake_Back_ATTACK.uasset" 927
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Snake_ATTACK.uasset" 928
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/JohnsMons/BP_FurySnake.uasset" 929
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_DarkArea.uasset" 930
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Virgil.uasset" 931
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Virgil.uasset" 932
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/FB_Virgil.uasset" 933
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/BlueEmissiveSpriteMat.uasset" 934
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_Virgil.uasset" 935
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_IceMonsters/BP_C_Spikes.uasset" 936
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Lucy.uasset" 937
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Lucy_1.uasset" 938
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Lucy_Flipbook.uasset" 939
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_Lucifer.uasset" 940
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/BloodFountain.uasset" 941
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/BloodFountain_Sprite.uasset" 942
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/BloodFountain_Flipbook.uasset" 943
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_BloodFountain.uasset" 944
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_WingedSandals.uasset" 945
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Wind.uasset" 946
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Wind_Sprite.uasset" 947
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/Woosh.uasset" 948
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Wind.uasset" 949
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Tileset22-export.uasset" 950
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Tileset22-export_TileSet.uasset" 951
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/TileMap_Circle2.uasset" 952
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Circle2_Lust.umap" 953
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/ice_Monsters/Texture_Idle3__1_.uasset" 954
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_IceMonsters/BP_C_IceYeti.uasset" 955
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_IceMonsters/BP_C_IceFairy.uasset" 956
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_IceMonsters/BP_C_Ice.uasset" 957
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_IceMonsters/BP_C_FrostGolem.uasset" 958
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_IceArea.uasset" 959
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Item_MoveScroll_Climb.uasset" 960
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Climb_Child.uasset" 961
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Tileset_Circle9.uasset" 962
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/TileSet_circle9_1.uasset" 963
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/TileMap_Circle9.uasset" 964
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Circle2_Lust1.umap" 965
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Eldritch_Ice_Slimei.uasset" 966
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_PoisonMonster/BP_C_PoisonMonster5.uasset" 967
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Dragon_Lord_B.uasset" 968
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_PoisonMonster/BP_C_PoisonMonster4.uasset" 969
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Darkness_Ogre.uasset" 970
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_PoisonMonster/BP_C_PoisonMonster3.uasset" 971
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Darkness_Flame.uasset" 972
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_PoisonMonster/BP_C_PoisonMonster2.uasset" 973
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/PoisonMonsters/Darkness_Devilimp.uasset" 974
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_PoisonMonster/BP_C_PoisonMonster1.uasset" 975
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_PoisonArea.uasset" 976
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_Mud.uasset" 977
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/PuzzleBlocks/Mudblock.uasset" 978
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/PuzzleBlocks/BP_Pushblock.uasset" 979
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/PuzzleBlocks/BP_DoorGoal.uasset" 980
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/PuzzleBlocks/BP_PuzzleDoor.uasset" 981
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_Tarrare.uasset" 982
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_Healer.uasset" 983
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_GlutLord.uasset" 984
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 985
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 986
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_Rain.uasset" 987
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/P_Rain.uasset" 988
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Circle3_Gluttony.umap" 989
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/UGK/Meshes/Shapes/rock_1.uasset" 990
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/Heresy_Map.uasset" 991
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/Heresy_Map_Mat.uasset" 992
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/GUI_FireDeath.uasset" 993
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/Material/Lava_Texture.uasset" 994
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/SoulShield_SetUp/Material/Lava_Mat.uasset" 995
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/BP_FirePit.uasset" 996
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_FireMonsters/BP_C_Hound.uasset" 997
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_FireMonsters/BP_C_Flamemon.uasset" 998
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/FireMonsters/Texture_Fire_Imp___1_.uasset" 999
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_FireMonsters/BP_C_Fire_Imp.uasset" 1000
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_FireArea_.uasset" 1001
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/1Texture_Fury.uasset" 1002
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/1_Fury_Sprite.uasset" 1003
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/1_Fury.uasset" 1004
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/B_NPC_Fury.uasset" 1005
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/B_NPC_Fury_Difficult.uasset" 1006
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/1_Texture_Minotaur.uasset" 1007
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/1_MIN_Sprite.uasset" 1008
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/1_MIN.uasset" 1009
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/B_NPC_BMinotuar.uasset" 1010
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/NormalMonsters/Texture_Walk1.uasset" 1011
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_NormalMonsters/BP_C_Bear.uasset" 1012
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/B_NPC_BMinotuar_Diff.uasset" 1013
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/B_NPC_BMinotuar_Diff_Child.uasset" 1014
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/BP_NPC_Medusa_Diff.uasset" 1015
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_MoveScroll_Command.uasset" 1016
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/Bosses_C6/BP_NPC_Medusa_Diff_Child.uasset" 1017
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_MoveScroll_Cheat.uasset" 1018
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Red_color.uasset" 1019
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Purple_color.uasset" 1020
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/LightGray_color.uasset" 1021
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Gray_color.uasset" 1022
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/DarkPurple_color.uasset" 1023
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/DarkBrown_color.uasset" 1024
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Cuan_color.uasset" 1025
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Black_color.uasset" 1026
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Circle6_Hersey.umap" 1027
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Circle9_Betrayal_BuiltData.uasset" 1028
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/BP_LevelManager_Betrayal.uasset" 1029
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Money.uasset" 1030
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Circle9_Betrayal.umap" 1031
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_CircleEight_BuiltData.uasset" 1032
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Blob_IDLE.uasset" 1033
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Blob_HURT.uasset" 1034
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Blob_Back_IDLE.uasset" 1035
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Blob_Back_HURT.uasset" 1036
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Blob_Back_ATTACK.uasset" 1037
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/JohnsMons/BP_BobTheBlob.uasset" 1038
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_Lilith.uasset" 1039
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_FalseEnemy.uasset" 1040
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Baphomet.uasset" 1041
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Baphomet.uasset" 1042
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/FB_Baphomet.uasset" 1043
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_Baphomet.uasset" 1044
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Illusion_FlameWall.uasset" 1045
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_RockWall.uasset" 1046
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_RockWall.uasset" 1047
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Shiny.uasset" 1048
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Shiny_Sprite.uasset" 1049
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_Illusion_FalseWall.uasset" 1050
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/pill.uasset" 1051
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/pill_Sprite.uasset" 1052
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_StatusRemover.uasset" 1053
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_RouteName.uasset" 1054
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/BP_RouteNameTrigger.uasset" 1055
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_MoveScroll_Dispel.uasset" 1056
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_Gomaliel.uasset" 1057
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_Gomaliel.uasset" 1058
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/FB_Gomaliel.uasset" 1059
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_NPC_Gomaliel.uasset" 1060
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_LevelManager_Fraud.uasset" 1061
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_CheckPoint.uasset" 1062
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_FallCatch.uasset" 1063
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_CheckPoints.uasset" 1064
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_Teleporter.uasset" 1065
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_CircleRings.uasset" 1066
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_CircleRings.uasset" 1067
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Circle.uasset" 1068
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Circle_Sprite.uasset" 1069
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/BlackWave.uasset" 1070
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/BlackWave_Sprite.uasset" 1071
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/YellowEmissiveSpriteMaterial.uasset" 1072
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/WhiteEmissiveSpriteMaterial.uasset" 1073
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Sand.uasset" 1074
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Sand_Mat.uasset" 1075
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/RedEmissiveSpriteMaterial.uasset" 1076
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/PurpleEmissiveSpriteMaterial.uasset" 1077
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/LightGreenEmissiveSpriteMaterial.uasset" 1078
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/GreenEmissiveSpriteMaterial.uasset" 1079
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/DeepBlueEmissiveSpriteMaterial.uasset" 1080
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_CircleEight.umap" 1081
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_CircleOne_BuiltData.uasset" 1082
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_FightTutorial.uasset" 1083
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_FightTutorial_Video.uasset" 1084
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_FightTut_Mat.uasset" 1085
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_CutTutorial.uasset" 1086
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_CutTutorial_Video.uasset" 1087
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_CutTut_Mat.uasset" 1088
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_CatchTutorial.uasset" 1089
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_CatchTutorial_Video.uasset" 1090
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/MP_CatchTut_Mat.uasset" 1091
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/FightTutorial.uasset" 1092
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/CutTutorial.uasset" 1093
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Movies/CatchTutorial.uasset" 1094
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_Move.uasset" 1095
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_HealthTeach.uasset" 1096
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Death.uasset" 1097
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Death_Sprite.uasset" 1098
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/FB_Death.uasset" 1099
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_NPC_Death1.uasset" 1100
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_MoveScroll_Cut.uasset" 1101
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_Item_HealthPotion_small.uasset" 1102
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_Item_HealthPotion_Medium.uasset" 1103
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_GreyTent3.uasset" 1104
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_GreyTent3.uasset" 1105
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_GreyTent2.uasset" 1106
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_GreyTent2.uasset" 1107
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_GreyTent1.uasset" 1108
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_GreyTent1.uasset" 1109
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_BoxCol.uasset" 1110
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_DarkForest2.uasset" 1111
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/Tileset_DarkForest2.uasset" 1112
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/BasicMapForest_TileSet.uasset" 1113
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Tilesets/TileMap_DarkForest.uasset" 1114
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_BasicMapForest.uasset" 1115
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/door1.uasset" 1116
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/door1_Sprite_4.uasset" 1117
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/door1_Sprite_3.uasset" 1118
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/door1_Sprite_2.uasset" 1119
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/door1_Sprite_1.uasset" 1120
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/door1_Sprite_0.uasset" 1121
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/FB_DoorAnim.uasset" 1122
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_CircleOne.umap" 1123
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_Credits.uasset" 1124
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_Credits.uasset" 1125
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_Credits.uasset" 1126
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Credits.umap" 1127
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Leo_WorkFolder/BP_Timer.uasset" 1128
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/CircleEight/BP_LevelManager_Duat.uasset" 1129
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/TEST_sand_2.uasset" 1130
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/TEST_sand_2_Mat.uasset" 1131
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/MapDuat.uasset" 1132
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/MapDuat_Mat.uasset" 1133
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Orange_color.uasset" 1134
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Colors/Green_color.uasset" 1135
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Duat_Eqypt.umap" 1136
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_EndGame.umap" 1137
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_LevelSelect.umap" 1138
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_LoadMenu.uasset" 1139
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_TestLoadMenu.uasset" 1140
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_LoadMenu.uasset" 1141
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_LoadMenu.umap" 1142
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/TheDolorousRealmLogo.uasset" 1143
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_MainMenu.uasset" 1144
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_TestMainMenu.uasset" 1145
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_MainMenu.uasset" 1146
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_MainMenuScreen.umap" 1147
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Slope.uasset" 1148
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Hexagon.uasset" 1149
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_CylinderFull.uasset" 1150
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Cone.uasset" 1151
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_BoxHighRes.uasset" 1152
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_BoxCentered.uasset" 1153
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Test_Level_2D/AniCore_StarterPack/Source/Meshes/SuperGrid_Box.uasset" 1154
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Legendary_Golem.uasset" 1155
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_Legendary.uasset" 1156
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/BP_LegendaryArea.uasset" 1157
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_IceTrainerNPC.uasset" 1158
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_Brown.uasset" 1159
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Niflhel.umap" 1160
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_RicksPlayground_BuiltData.uasset" 1161
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_SpawnLoc.uasset" 1162
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_DarkTree.uasset" 1163
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Sprite_DarkTree.uasset" 1164
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_Dirt.uasset" 1165
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_RicksPlayground.umap" 1166
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_TestSettingsMenu.uasset" 1167
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_SettingsMenu.uasset" 1168
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_SettingsMenuScreen.umap" 1169
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Texture_RedGlow.uasset" 1170
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/GUIs/GUI_StartScreen.uasset" 1171
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/BP_Char_TestStartScreen.uasset" 1172
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MenuBluePrints/GM_StartScreen.uasset" 1173
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_StartScreen.umap" 1174
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Temp_Overworld_BuiltData.uasset" 1175
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_WaterArea.uasset" 1176
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/NormalMonsters/Texture_Snake.uasset" 1177
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_NormalMonsters/BP_C_Slither.uasset" 1178
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/NormalMonsters/Texture_Idle3.uasset" 1179
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_NormalMonsters/BP_C_Orge.uasset" 1180
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Texture_NormalType.uasset" 1181
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_NormalMonsters/BP_C_Normal.uasset" 1182
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/ImageAssets/NormalMonsters/Texture_Flight6.uasset" 1183
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_NormalMonsters/BP_C_Hawk.uasset" 1184
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_NormalArea.uasset" 1185
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_MagicMonster/BP_C_MagicMonster5.uasset" 1186
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_MagicMonster/BP_C_MagicMonster4.uasset" 1187
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/BP_MagicMonster/BP_C_MagicMonster2.uasset" 1188
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_MagicArea.uasset" 1189
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/PuzzleBlocks/BP_Goal.uasset" 1190
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Texture_Tree.uasset" 1191
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Sprite_Tree.uasset" 1192
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Texture_HellHound2.uasset" 1193
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Test_Level_2D/Map_Level/Refrence_Pics/Sprite_HellHound2.uasset" 1194
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_GreenBadgeChecker.uasset" 1195
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_BlueBadgeChecker.uasset" 1196
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_BadgeGiver.uasset" 1197
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_Booster_Stat.uasset" 1198
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/BP_Booster_Attack.uasset" 1199
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Sprite_WaterIceType.uasset" 1200
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Sprite_NormalType.uasset" 1201
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/BP_MonsterBaseActor.uasset" 1202
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/BP_MonsterBaseActor_Water.uasset" 1203
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Texture_PoisonType.uasset" 1204
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Sprite_PoisonType.uasset" 1205
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/BP_MonsterBaseActor_Poison.uasset" 1206
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Texture_MagicType.uasset" 1207
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Sprite_MagicType.uasset" 1208
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/BP_MonsterBaseActor_Magic.uasset" 1209
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Sprite_FireType.uasset" 1210
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/BP_MonsterBaseActor_Fire.uasset" 1211
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/ImageAssets/Sprite_DarkType.uasset" 1212
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/ElementalPlaceholders/BP_MonsterBaseActor_Dark.uasset" 1213
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Temp_Overworld.umap" 1214
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_4_Greed/BP_LightSwitch.uasset" 1215
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Small_Mushroom.uasset" 1216
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/BP_C_SmallMushroom.uasset" 1217
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Goblin_Range.uasset" 1218
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/BP_C_GoblinRange.uasset" 1219
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Goblin_Melee.uasset" 1220
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/BP_C_GoblinMelee.uasset" 1221
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Goblin_Mage/Goblin_Mage.uasset" 1222
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/BP_C_GoblinMage.uasset" 1223
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Big_Mushroom.uasset" 1224
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/BP_C_BigMushroom.uasset" 1225
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/S_RockFloor.uasset" 1226
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/Wild_Areas/BP_C_RockWildArea.uasset" 1227
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_017.uasset" 1228
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_017_Sprite_0.uasset" 1229
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_016.uasset" 1230
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_016_Sprite_0.uasset" 1231
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_015.uasset" 1232
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_015_Sprite_0.uasset" 1233
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_014.uasset" 1234
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_014_Sprite_0.uasset" 1235
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_013.uasset" 1236
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_013_Sprite_0.uasset" 1237
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_012.uasset" 1238
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_012_Sprite_0.uasset" 1239
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_011.uasset" 1240
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_011_Sprite_0.uasset" 1241
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_010.uasset" 1242
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_010_Sprite_0.uasset" 1243
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_009.uasset" 1244
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_009_Sprite_0.uasset" 1245
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_008.uasset" 1246
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_008_Sprite_0.uasset" 1247
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_007.uasset" 1248
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_007_Sprite_0.uasset" 1249
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_006.uasset" 1250
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_006_Sprite_0.uasset" 1251
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_005.uasset" 1252
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_005_Sprite_0.uasset" 1253
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_004.uasset" 1254
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_004_Sprite_0.uasset" 1255
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_003.uasset" 1256
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_003_Sprite_0.uasset" 1257
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_002.uasset" 1258
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_002_Sprite_0.uasset" 1259
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Texture_0_Reaper_Man_Idle_001.uasset" 1260
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/IdleAssets/Sprite_0_Reaper_Man_Idle_001_Sprite_0.uasset" 1261
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/TestFolderForWildEncounters/Characters/FlipBooks/FB_TrainerIdle.uasset" 1262
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/MonsterAssets/Rock_Monsters/TexturesRM/Bat/Bat.uasset" 1263
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/TrainersAndBosses4Greed/BPC_FirstTrainer.uasset" 1264
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/TrainersAndBosses4Greed/BPC_BossForGreed.uasset" 1265
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Megascans_LavaField_8K/3D_Asset/02_Volcanic_Ground_qcjrH/SM_Platform.uasset" 1266
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/AudioAssets/SFX/woosh_low_long01-98755.uasset" 1267
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Materials/Mat_glow.uasset" 1268
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Moving_Platform.uasset" 1269
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Key.uasset" 1270
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Door.uasset" 1271
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Models/lambert1.uasset" 1272
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_4_Greed/Scene_Circle4_Greed_SamDurfee.umap" 1273
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/BP_C_Boss.uasset" 1274
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/Wild_Area_Types/BP_C_Boss1.uasset" 1275
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_PlayerStart.uasset" 1276
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_4_Greed/Scene_Greed_Boss.umap" 1277
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_4_Greed/Scene_Greed_hole.umap" 1278
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_7_Violence/BP_River.uasset" 1279
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_7_Violence/BP_LevelManager_Violence.uasset" 1280
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Textures/Bosslevel_7_sprite.uasset" 1281
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Sprites/Bosslevel_7_sprite_Sprite.uasset" 1282
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/ArtAssets/Flipbooks/FB_Boss7.uasset" 1283
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/NPCs/BP_C_BossLvL_7.uasset" 1284
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/InventorySystem/MoveScrolls/BP_C_SuperSight.uasset" 1285
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 1286
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 1287
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 1288
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 1289
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 1290
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 1291
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 1292
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 1293
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 1294
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 1295
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 1296
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 1297
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 1298
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1299
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 1300
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 1301
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 1302
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 1303
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 1304
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 1305
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 1306
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 1307
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 1308
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 1309
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 1310
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 1311
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 1312
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 1313
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 1314
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 1315
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 1316
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 1317
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 1318
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 1319
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 1320
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 1321
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 1322
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 1323
+"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 1324
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 1325
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 1326
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 1327
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 1328
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 1329
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 1330
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 1331
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 1332
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 1333
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 1334
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 1335
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 1336
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 1337
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 1338
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 1339
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 1340
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/E_Ash.uasset" 1341
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/E_Ash_System.uasset" 1342
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_RockFloor.uasset" 1343
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Blueprints/BP_Exit_Point.uasset" 1344
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/Scenes/Scene_Level_7_Violence/Scene_Violence.umap" 1345
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1346
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1347
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1348
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1349
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1350
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1351
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1352
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1353
+"../../../../../../G/GDNBS/Project/08/S1/TeamBriggs/Working Folder/Content/StarterContent/Maps/Advanced_Lighting.umap" 1354
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1355
+"../../../Engine/Content/Maps/Entry.umap" 1356
